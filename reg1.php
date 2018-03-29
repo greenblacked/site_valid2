@@ -9,8 +9,8 @@
 <h1>Регистрацiя</h1>
 <table>
     <form method=post class="form1">
-        <tr><td>Имя:</td><td><input type=text name=name></td></tr>
-        <tr><td>Пароль:</td><td><input type=password name=pass></td></tr>
+        <tr><td>Имя:</td><td><input type=text  name=name></td></tr>
+        <tr><td>Пароль:</td><td><input type=password  name=pass></td></tr>
         <tr><td>Пароль:</td><td><input type=password name=pass_again></td></tr>
         <tr><td>e-mail:</td><td><input type=text name=email></td></tr>
         <tr><td>Отзыв:</td><td><input type=text name=url></td></tr>
