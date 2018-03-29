@@ -495,3 +495,4 @@ header h1{
 .on-focus > input:focus + .tool-tip.slideIn.right{
     left: 105%;
 }
+

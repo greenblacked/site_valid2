@@ -13,6 +13,7 @@
 </style>
 <body>
 <img src="download1.gif" alt="The Wither">
+
 <p class="title">Клуб фанатов игры Ведьмак</p>
 <map class="map" name="vicher">
     <area shape="poly" coords="85,41,75,77,115,109,179,99,203,85,223,92,235,71,276,48,185,44,92,42"
