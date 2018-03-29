@@ -6,8 +6,9 @@
     <link rel="stylesheet" href="style/style.css">
 </head>
 <body>
+<h1>Регистрацiя</h1>
 <table>
-    <form method=post>
+    <form method=post class="form1">
         <tr><td>Имя:</td><td><input type=text name=name></td></tr>
         <tr><td>Пароль:</td><td><input type=password name=pass></td></tr>
         <tr><td>Пароль:</td><td><input type=password name=pass_again></td></tr>
@@ -19,9 +20,14 @@
             <tr><td>4-7 лет</td><td><input type=radio></td></tr>
             <tr><td>Более 7 лет</td><td><input type=radio></td></tr>
         </div>
+        <input type="reset" class="reset"/>
+
         <tr><td></td><td><input type=submit onclick="location.href='login_1.php'" value='Зарегистрировать'></td></tr>
+
     </form>
 </table>
+
+
 </body>
 </html>
 <?php
