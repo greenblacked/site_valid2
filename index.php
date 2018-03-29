@@ -12,9 +12,9 @@
     }
 </style>
 <body>
-<img src="download1.gif" alt="The Wither">
-
-<p class="title">Клуб фанатов игры Ведьмак</p>
+<!--<img src="23.gif" alt="The Wither">-->
+<p class="title1"><img src="title1.png" alt="name"></p>
+<!--<p class="title">Клуб фанатов игры Ведьмак</p>-->
 <map class="map" name="vicher">
     <area shape="poly" coords="85,41,75,77,115,109,179,99,203,85,223,92,235,71,276,48,185,44,92,42"
           href="http://vedmak.wikia.com/wiki/%D0%9A%D0%BE%D0%B2%D0%B8%D1%80_%D0%B8_%D0%9F%D0%BE%D0%B2%D0%B8%D1%81%D1%81" title="Ковир и Полис"
