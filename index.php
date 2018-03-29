@@ -48,6 +48,7 @@
 </map>
 <img src="https://images.stopgame.ru/uploads/images/294518/form/2015/05/13/normal_1431517948.jpg" usemap="#vicher">
 <input class="login" type="button" value="login" onclick='location.href="reg1.php"'>
-<input class="singin" type="button" value="singin" onclick='location.href="login_1.php"'>
+<input class="singin" type="button" value="singin" onclick='location.href="sing_in.php"'>
+<input class="change_info" type="button" value="Change" onclick="location.href = 'login_1.php'">
 </body>
 </html>
